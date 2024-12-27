@@ -64,6 +64,33 @@ The Boston Rental Property Recommendation System successfully utilized data anal
 - **APIs**: HomeHarvest Library, Google Distance Matrix API
 - **Machine Learning Model**: Random Forest Regressor
 
+## Repository Files
+
+### Datasets
+
+#### Raw Data
+- [HomeHarvest_Boston_Rentals.xlsx](https://github.com/patelk1833/Boston-Rental-Property-Recommendation-System/tree/main/datasets/raw): Contains the raw data scraped from the HomeHarvest Library for rental properties in Boston.
+
+#### Cleaned Data
+- [HomeHarvest_Boston_Rentals_Cleaned.xlsx](https://github.com/patelk1833/Boston-Rental-Property-Recommendation-System/tree/main/datasets/cleaned): Data after initial cleaning for missing values and duplicates.
+- [HomeHarvest_Boston_Rentals_Cleaned_with_Room_Stats.xlsx](https://github.com/patelk1833/Boston-Rental-Property-Recommendation-System/tree/main/datasets/cleaned): Cleaned data enriched with room-related metrics.
+- [HomeHarvest_Boston_Rentals_with_Travel_Times.xlsx](https://github.com/patelk1833/Boston-Rental-Property-Recommendation-System/tree/main/datasets/cleaned): Cleaned data merged with travel time metrics calculated using the Google Distance Matrix API.
+
+#### Final Data
+- [HomeHarvest_Boston_Rentals_Final.xlsx](https://github.com/patelk1833/Boston-Rental-Property-Recommendation-System/tree/main/datasets/final): Final dataset used for modeling and analysis.
+- [recommended_properties.xlsx](https://github.com/patelk1833/Boston-Rental-Property-Recommendation-System/tree/main/datasets/final): Recommended properties generated from the machine learning model.
+
+### Graphs
+- [Travel Time Impact Analysis](https://github.com/patelk1833/Boston-Rental-Property-Recommendation-System/tree/main/graphs): Contains visualizations analyzing the relationship between travel times (walking, transit, and driving) and rental prices.
+- [Property Characteristics Analysis](https://github.com/patelk1833/Boston-Rental-Property-Recommendation-System/tree/main/graphs): Includes graphs showing insights from property-specific features such as bedrooms, bathrooms, and price per square foot.
+- [Location-Based Analysis](https://github.com/patelk1833/Boston-Rental-Property-Recommendation-System/tree/main/graphs): Contains heatmaps and geospatial plots related to neighborhood scores and accessibility.
+
+### Documents
+- [Final Paper: COMP3125-01_Final_Paper_Krish_Patel.pdf](https://github.com/patelk1833/Boston-Rental-Property-Recommendation-System/blob/main/documents/Final%20Paper_Krish%20Patel.pdf): PDF version of the final project report.
+
+### Notebook
+- [Boston_Rental_Property_Recommendation_Project.ipynb](https://github.com/patelk1833/Boston-Rental-Property-Recommendation-System/blob/main/notebook/Boston_Rental_Property_Recommendation_Project.ipynb): Jupyter notebook containing all the code, analysis, and model development for the project.
+
 
 
 
