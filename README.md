@@ -86,7 +86,7 @@ The Boston Rental Property Recommendation System successfully utilized data anal
 - [Location-Based Analysis](https://github.com/patelk1833/Boston-Rental-Property-Recommendation-System/tree/main/graphs): Contains heatmaps and geospatial plots related to neighborhood scores and accessibility.
 
 ### Documents
-- [Final Paper: COMP3125-01_Final_Paper_Krish_Patel.pdf](https://github.com/patelk1833/Boston-Rental-Property-Recommendation-System/blob/main/documents/Final%20Paper_Krish%20Patel.pdf): PDF version of the final project report.
+- [Final Paper: Final_Paper_Krish_Patel.pdf](https://github.com/patelk1833/Boston-Rental-Property-Recommendation-System/blob/main/documents/Final%20Paper_Krish%20Patel.pdf): PDF version of the final project report.
 
 ### Notebook
 - [Boston_Rental_Property_Recommendation_Project.ipynb](https://github.com/patelk1833/Boston-Rental-Property-Recommendation-System/blob/main/notebook/Boston_Rental_Property_Recommendation_Project.ipynb): Jupyter notebook containing all the code, analysis, and model development for the project.
